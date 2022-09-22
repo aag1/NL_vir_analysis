@@ -23,6 +23,8 @@
 
 * __DB2_info, DB3_DB4_info__ - build DB2, DB3, DB4
 
+* __DB3_vConTACT2__ - DB3 gene-sharing with TerL-encoding viruses
+
 * __DB3_TerL_tree__ - build & plot phylogenetic tree
 
 * __DB3_abundance_stability__ - % sample reads mapped to DB3 & Bray-Curtis dissimilarity
