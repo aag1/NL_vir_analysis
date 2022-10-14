@@ -80,7 +80,7 @@ par(mar = c(2.5, 5, 2.75, 0.5))
 
 vioplot(
     V3, V1, V2,
-    col = c('grey60', 'forestgreen', 'lightcoral'),
+    col = c('grey50', 'forestgreen', 'lightcoral'),
     names = NA,
     pchMed = 20,
     ylim = c(0.2, 1),
@@ -90,7 +90,7 @@ vioplot(
 text(
     x = c(1, 2.15, 3.15),
     y = 0.1,
-    labels = c('Inter-individual', 'LLD\nbaseline', 'LLD\nfollow-up'),
+    labels = c('Intra-individual', 'LLD\nbaseline', 'LLD\nfollow-up'),
     xpd = TRUE
 )
 

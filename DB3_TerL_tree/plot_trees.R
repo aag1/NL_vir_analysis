@@ -222,6 +222,7 @@ text(
     A$lld_pheno[idx],
     x = par()$usr[2],
     y = idx,
+    font = 2,
     cex = 0.75,
     adj = 1, xpd = T
 )
